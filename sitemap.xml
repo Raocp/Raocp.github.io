@@ -3,22 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://Raocp.github.io/post/hehe/</loc>
-    <lastmod>2017-08-01T20:47:57+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Raocp.github.io/post/contact/</loc>
-    <lastmod>2017-08-01T20:47:15+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Raocp.github.io/about/</loc>
+    <loc>https://Raocp.github.io/profile/</loc>
     <lastmod>2017-08-01T14:06:55+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://Raocp.github.io/award/</loc>
+    <lastmod>2017-08-01T14:06:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Raocp.github.io/interest/</loc>
     <lastmod>2017-08-01T14:06:55+08:00</lastmod>
   </url>
   
@@ -48,12 +43,6 @@
   </url>
   
   <url>
-    <loc>https://Raocp.github.io/post/</loc>
-    <lastmod>2017-08-01T20:47:57+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://Raocp.github.io/tags/</loc>
     <priority>0</priority>
   </url>
@@ -65,7 +54,7 @@
   
   <url>
     <loc>https://Raocp.github.io/</loc>
-    <lastmod>2017-08-01T20:47:57+08:00</lastmod>
+    <lastmod>2017-08-01T14:06:55+08:00</lastmod>
     <priority>0</priority>
   </url>
   

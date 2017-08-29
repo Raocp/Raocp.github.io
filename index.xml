@@ -7,36 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 01 Aug 2017 20:47:57 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 14:06:55 +0800</lastBuildDate>
     
 	<atom:link href="https://Raocp.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hehe</title>
-      <link>https://Raocp.github.io/post/hehe/</link>
-      <pubDate>Tue, 01 Aug 2017 20:47:57 +0800</pubDate>
-      
-      <guid>https://Raocp.github.io/post/hehe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://Raocp.github.io/post/contact/</link>
-      <pubDate>Tue, 01 Aug 2017 20:47:15 +0800</pubDate>
-      
-      <guid>https://Raocp.github.io/post/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://Raocp.github.io/about/</link>
+      <title>About me</title>
+      <link>https://Raocp.github.io/profile/</link>
       <pubDate>Tue, 01 Aug 2017 14:06:55 +0800</pubDate>
       
-      <guid>https://Raocp.github.io/about/</guid>
-      <description></description>
+      <guid>https://Raocp.github.io/profile/</guid>
+      <description>Biography 
+My name is Chengping Rao. I am a master-degree candidate majoring in Naval Architecture and Ocean Engineering (NAOE) at Shanghai Jiao Tong University, Shanghai, China. I received my Bachelor degree in Huazhong University of Science and Technology, Wuhan, China. My current research field is wave-structure interaction based on computational mechanics (such as FVM, FEM, MPS and etc). The solver used in the research was contributed by me (nearly 3000 lines) using C++.</description>
     </item>
     
     <item>
@@ -47,6 +30,15 @@
       <guid>https://Raocp.github.io/award/</guid>
       <description>Date &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Honor &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp; Organization 
 Oct. 2013 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; National Scholarship &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp;China&amp;rsquo;s Ministry of Education</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>https://Raocp.github.io/interest/</link>
+      <pubDate>Tue, 01 Aug 2017 14:06:55 +0800</pubDate>
+      
+      <guid>https://Raocp.github.io/interest/</guid>
+      <description> If you have any question about me, please feel free to contact me. E-mail:championrao@163.com  or rao199547@sjtu.edu.cn  </description>
     </item>
     
     <item>
@@ -65,7 +57,11 @@ Oct. 2013 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Nati
       
       <guid>https://Raocp.github.io/education/</guid>
       <description>2011~2015 &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;Bachelor &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; Ocean Engineering&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; Huazhong University of Science and Technology
-2015~present &amp;#160;&amp;#160;&amp;#160; Master &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; Ocean Engineering &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; Shanghai Jiao Tong University</description>
+ Calculus, Linear Algebra, Probability and Mathematical Statistics Equations of Mathematical Physics Mathematical Statistics
+ Advanced Ship Hydrodynamics Advanced Computational Fluid Dynamics Potential-flow Theory for Ship Motion  2015~present &amp;#160;&amp;#160;&amp;#160; Master &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;Ocean Engineering &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; Shanghai Jiao Tong University
+ Computational Methods
+ Equations of Mathematical Physics Mathematical Statistics
+ Advanced Ship Hydrodynamics Advanced Computational Fluid Dynamics Potential-flow Theory for Ship Motion  </description>
     </item>
     
     <item>
@@ -74,7 +70,10 @@ Oct. 2013 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Nati
       <pubDate>Tue, 01 Aug 2017 14:06:55 +0800</pubDate>
       
       <guid>https://Raocp.github.io/experience/</guid>
-      <description></description>
+      <description>Date &amp;#160; &amp;#160; &amp;#160; &amp;#160;&amp;#160;&amp;#160;&amp;#160; &amp;#160; Position &amp;#160;&amp;#160;&amp;#160; &amp;#160; &amp;#160;&amp;#160; &amp;#160; &amp;#160; &amp;#160; Activity Aug. 2017 &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;Professor Assitant &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; International Summer School on NAOEM, SJTU
+Aug. 2016 &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;Volunteer &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; International Summer School on NAOEM, SJTU
+Oct. 2016 &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; Attender &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; 4th National Syposium on Computational Fluid Dynamics of NAOE
+Sep. 2016 &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; Attender &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; Master Classes on Meshfree Particle Method, Tsinghua Univ.</description>
     </item>
     
     <item>
@@ -94,10 +93,10 @@ Oct. 2013 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Nati
       <pubDate>Tue, 01 Aug 2017 14:06:55 +0800</pubDate>
       
       <guid>https://Raocp.github.io/publication/</guid>
-      <description>Journal [1] Chengping Rao, Youlin Zhang, Decheng Wan. Simulation of interaction between solitary wave and elastic plate by MPS-FEM method[J]. Journal of Marine Science and Application, 2016.
-[2] Chengping Rao, Decheng Wan. Numerical study of floating body motion under regular waves by MPS method[C]// The Second Conference of Global Chinese Scholars on Hydrodynamics, 2016, Wuxi, China.
-[3] 饶成平, 万德成. MPS方法研究细长河道中的溃坝流动[C]// 第四届全国船舶与海洋工程CFD专题研讨会, 2016, 镇江.
-Conference [1] Chengping Rao, Youlin Zhang and Decheng Wan.</description>
+      <description>Journal [1] Chengping Rao, Youlin Zhang, Decheng Wan. Simulation of interaction between solitary wave and elastic plate by MPS-FEM method[J]. Journal of Marine Science and Application (In Review).
+[2] 饶成平, 万德成. MPS方法研究细长河道中的溃坝流动[J] 江苏科技大学学报 (In Review).
+&amp;#160; &amp;#160; &amp;#160;Chengping Rao, Decheng Wan. The study of dam-break flow in slender channel by MPS method[J] Journal of Jiangsu University of Science and Technology, (In Chinese, In Review)
+[2] Chengping Rao, Decheng Wan. Numerical study of floating body motion under regular waves by MPS method[C]// Proceedings of the Second Conference of Global Chinese Scholars on Hydrodynamics, Nov.</description>
     </item>
     
   </channel>
