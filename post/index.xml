@@ -7,27 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 01 Aug 2017 20:47:57 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://Raocp.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hehe</title>
-      <link>https://Raocp.github.io/post/hehe/</link>
-      <pubDate>Tue, 01 Aug 2017 20:47:57 +0800</pubDate>
+      <title>Image Recognition in Smart Parking System</title>
+      <link>https://Raocp.github.io/post/smartpark/</link>
+      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://Raocp.github.io/post/hehe/</guid>
-      <description></description>
+      <guid>https://Raocp.github.io/post/smartpark/</guid>
+      <description>The purpose of this project is to construct a smart parking lot which can make the parking quicker. Auto-detection of the specifically built signs is adopted to assist the parking. The open source computer vision library, OpenCV2.4, is employed in this project.
+Scene ONE: How the driver obtains the location of the parking space?
+Solution ONE: The QR-code which represents the unique position of the parking space is stick to the ground.</description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://Raocp.github.io/post/contact/</link>
-      <pubDate>Tue, 01 Aug 2017 20:47:15 +0800</pubDate>
+      <title>Unmanned Underwater Vehicle (UUV) - FlapFish 1.0</title>
+      <link>https://Raocp.github.io/post/flapfish/</link>
+      <pubDate>Sun, 13 Jul 2014 00:10:13 +0800</pubDate>
       
-      <guid>https://Raocp.github.io/post/contact/</guid>
-      <description></description>
+      <guid>https://Raocp.github.io/post/flapfish/</guid>
+      <description>###Description:###
+The FlapFish 1.0, a concept UUV (Unmanned Underwater Vehicle),is designed for marine geomorphy exploration. It is approximately 0.8m long and 0.2m diameter. The major feature of the FlapFish is that it is propelled by a pair of flapping wings, which can reduce drastically the propeller-induced noise.The motor is under the control of a microcontroller which enables the FlapFish 1.0 to voyage with assigned velocity and direction.
+###Pictures:### &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Design drawing</description>
     </item>
     
   </channel>
