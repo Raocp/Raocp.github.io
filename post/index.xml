@@ -24,6 +24,15 @@ Solution ONE: The QR-code which represents the unique position of the parking sp
     </item>
     
     <item>
+      <title>Participant in the development of FSI-MPSFEM-SJTU 1.0</title>
+      <link>https://Raocp.github.io/post/fsi/</link>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://Raocp.github.io/post/fsi/</guid>
+      <description>The FSI-MPSFEM-SJTU 1.0 is an in-house software aiming to solve the fluid-structure interaction (FSI) problem. The flow simulation is based on the improved Moving Particle Semi-implicit (MPS) method and the structure simulation is calculated through Finite Element Method (FEM). The partitioned coupling strategy is employed on the interface between the fluid and structure. This software is developed by the research group of Prof. DC Wan (Shanghai Jiao Tong University, China), who is also my supervisor.</description>
+    </item>
+    
+    <item>
       <title>Unmanned Underwater Vehicle (UUV) - FlapFish 1.0</title>
       <link>https://Raocp.github.io/post/flapfish/</link>
       <pubDate>Sun, 13 Jul 2014 00:10:13 +0800</pubDate>

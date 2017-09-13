@@ -81,10 +81,10 @@ Oct. 2013 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Nati
       <pubDate>Tue, 01 Aug 2017 14:06:55 +0800</pubDate>
       
       <guid>https://Raocp.github.io/experience/</guid>
-      <description>Date &amp;#160; &amp;#160; &amp;#160; &amp;#160;&amp;#160;&amp;#160;&amp;#160; &amp;#160; Position &amp;#160;&amp;#160;&amp;#160; &amp;#160; &amp;#160;&amp;#160; &amp;#160; &amp;#160; &amp;#160; Activity Aug. 2017 &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;Professor Assitant &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; International Summer School on NAOEM, SJTU
-Aug. 2016 &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;Volunteer &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; International Summer School on NAOEM, SJTU
-Oct. 2016 &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; Attender &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; 4th National Syposium on Computational Fluid Dynamics of NAOE
-Sep. 2016 &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; Attender &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; Master Classes on Meshfree Particle Method, Tsinghua Univ.</description>
+      <description>Date &amp;#160; &amp;#160; &amp;#160; &amp;#160;&amp;#160;&amp;#160;&amp;#160; &amp;#160; Position &amp;#160;&amp;#160;&amp;#160; &amp;#160; &amp;#160;&amp;#160; &amp;#160; &amp;#160; &amp;#160; Activity Sep. 2017 &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; &amp;#160; Intern &amp;#160;&amp;#160;&amp;#160; &amp;#160; &amp;#160;&amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160; Algorithm Engineer of a Start-up Computer Vision Company
+Aug. 2017 &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;Participant &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; Development of the FSI-MPSFEM-SJTU1.0 software
+Aug. 2017 &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;Professor Assitant &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; International Summer School on NAOEM, SJTU
+Aug. 2016 &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;Volunteer &amp;#160; &amp;#160; &amp;#160; &amp;#160; &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; International Summer School on NAOEM, SJTU</description>
     </item>
     
     <item>
@@ -108,6 +108,15 @@ Sep. 2016 &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;
 [2] 饶成平, 万德成. MPS方法研究细长河道中的溃坝流动[J] 江苏科技大学学报 (In Press).
 &amp;#160; &amp;#160; &amp;#160;Chengping Rao, Decheng Wan. The study of dam-break flow in slender channel by MPS method[J] Journal of Jiangsu University of Science and Technology, (In Chinese, In Press)
 Conference [1] Chengping Rao and Decheng Wan.</description>
+    </item>
+    
+    <item>
+      <title>Participant in the development of FSI-MPSFEM-SJTU 1.0</title>
+      <link>https://Raocp.github.io/post/fsi/</link>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://Raocp.github.io/post/fsi/</guid>
+      <description>The FSI-MPSFEM-SJTU 1.0 is an in-house software aiming to solve the fluid-structure interaction (FSI) problem. The flow simulation is based on the improved Moving Particle Semi-implicit (MPS) method and the structure simulation is calculated through Finite Element Method (FEM). The partitioned coupling strategy is employed on the interface between the fluid and structure. This software is developed by the research group of Prof. DC Wan (Shanghai Jiao Tong University, China), who is also my supervisor.</description>
     </item>
     
     <item>
