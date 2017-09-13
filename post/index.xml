@@ -35,7 +35,7 @@ Solution ONE: The QR-code which represents the unique position of the parking sp
     <item>
       <title>Unmanned Underwater Vehicle (UUV) - FlapFish 1.0</title>
       <link>https://Raocp.github.io/post/flapfish/</link>
-      <pubDate>Sun, 13 Jul 2014 00:10:13 +0800</pubDate>
+      <pubDate>Sun, 13 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>https://Raocp.github.io/post/flapfish/</guid>
       <description>DESCRIPTION: The FlapFish 1.0, a concept UUV (Unmanned Underwater Vehicle),is designed for marine geomorphy exploration. It is approximately 0.8m long and 0.2m diameter. The major feature of the FlapFish is that it is propelled by a pair of flapping wings, which can reduce drastically the propeller-induced noise.The motor is under the control of a microcontroller which enables the FlapFish 1.0 to voyage with assigned velocity and direction.
