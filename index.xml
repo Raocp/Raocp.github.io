@@ -18,7 +18,7 @@
       <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://Raocp.github.io/post/smartpark/</guid>
-      <description>The purpose of this project is to construct a smart parking lot which can make the parking quicker. Auto-detection of the specifically built signs is adopted to assist the parking. The open source computer vision library, OpenCV2.4, is employed in this project.
+      <description>The purpose of this project is to construct a smart parking lot which can make the parking quicker. Auto- detection of the specifically built signs is adopted to assist the parking. The open source computer vision library, OpenCV2.4, is employed in this project.
 Scene ONE: How the driver obtains the location of the parking space?
 Solution ONE: The QR-code which represents the unique position of the parking space is stick to the ground.</description>
     </item>
